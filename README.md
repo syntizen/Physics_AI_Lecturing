@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/syntizen/Physics_AI_Lecturing/blob/main/Physics_AI_Bootcamp_Lecture.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/syntizen/Physics_AI_Lecturing/blob/main/Physics_AI_Lecture.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 
